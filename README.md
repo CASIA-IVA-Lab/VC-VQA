@@ -30,7 +30,7 @@ Each sample is paired with traceable textual and visual evidence in a controlled
 
 The questions and images can be downloaded here:
 
-*   [Dataset]([https://huggingface.co/datasets/TBD](https://huggingface.co/datasets/CASIA-IVA-Lab/VC-VQA))
+*   [Dataset]([https://huggingface.co/datasets/TBD](https://huggingface.co/datasets/CASIA-IVA-Lab/VC-VQA)
 
 VC-VQA contains 30,000 (image, question, answer) samples. The fields are:
 
