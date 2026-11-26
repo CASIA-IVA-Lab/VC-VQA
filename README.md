@@ -2,7 +2,7 @@
 
 This is the official repository for VC-VQA (EACL 2027 Main).
 
-[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/TBD)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.25680v1-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.25680v1)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/CASIA-IVA-Lab/VC-VQA)
 
 <!-- Replace the arXiv and Hugging Face URLs above once they are available. -->
@@ -30,7 +30,7 @@ Each sample is paired with traceable textual and visual evidence in a controlled
 
 The questions and images can be downloaded here:
 
-*   [Dataset](https://huggingface.co/datasets/TBD)
+*   [Dataset]([https://huggingface.co/datasets/TBD](https://huggingface.co/datasets/CASIA-IVA-Lab/VC-VQA))
 
 VC-VQA contains 30,000 (image, question, answer) samples. The fields are:
 
@@ -97,7 +97,12 @@ We would like to thank the following open-source projects for their valuable con
 If you find this work helpful, please cite using this BibTeX:
 
 ```bibtex
-% TODO
+@article{ma2026beyond,
+  title={Beyond Entity Recognition: Vision-Centric Knowledge Visual Question Answering},
+  author={Ma, Jiatong and Liu, Yuchen and Guo, Longteng and Yuan, Yichen and Wu, Yuze and Hao, Dongze and Zhen, Ru and Zhang, Yanhao and Lu, Haonan and Liu, Jing},
+  journal={arXiv preprint arXiv:2611.25680},
+  year={2026}
+}
 
 ```
 
